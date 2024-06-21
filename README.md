@@ -23,6 +23,10 @@
 ### *06 - Combinational_Part - Using_Decoder* →
 <img src="PNGs/06 - Combinational_Part - Using_Decoder.png">
 
-## Hardware Overview →
+## Software Implementation →
+
+<img src="PNGs/Software_Implementation_Of_Project.png">
+
+## Hardware Implementation →
 
 <img src="PNGs/Hardware_Overview.jpg">
