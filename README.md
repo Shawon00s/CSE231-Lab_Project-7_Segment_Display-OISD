@@ -35,3 +35,4 @@
 
 <img src="PNGs/Project_Report - Seven_Segment_Display-01.png">
 <img src="PNGs/Project_Report - Seven_Segment_Display-02.png">
+<img src="PNGs/Project_Report - Seven_Segment_Display-03.png">
