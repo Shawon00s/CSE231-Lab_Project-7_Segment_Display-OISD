@@ -30,3 +30,7 @@
 ## Hardware Implementation →
 
 <img src="PNGs/Hardware_Overview.jpg">
+
+## Project Report →
+
+<img src="PNGs/Project_Report - Seven_Segment_Display-01.png">
