@@ -1,3 +1,4 @@
+## <em>Path Detail →</em>
 ```
 Repositories
 └───CSE231-Lab_Project-7_Segment_Display-OISD
