@@ -23,7 +23,7 @@ Repositories
             └── Project_CSE231L_09 Spring 24-1.png
             └── Project_CSE231L_09 Spring 24-2.png
             └── Project_Report - Seven_Segment_Display-01.png
-            ...
+                ...
             └── Project_Report - Seven_Segment_Display-30.png
             └── README.md
             └── Software_Implementation_Of_Project.png
