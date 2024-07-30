@@ -1,32 +1,32 @@
 ```
 Repositories
 └───CSE231-Lab_Project-7_Segment_Display-OISD
-    │   01 - Combinational_Part - Using_Basic_Gates (Unsimplified_Form).circ
-    │   02 - Combinational_Part - Using_Basic_Gates.circ
-    │   03 - Combinational_Part - Using_NAND_Gates.circ
-    │   04 - Combinational_Part - Using_NOR_Gates.circ
-    │   05 - Combinational_Part - Using_MUX.circ
-    │   06 - Combinational_Part - Using_Decoder.circ
-    │   Project_CSE231L_09 Spring 24.docx
-    │   Project_Report - Seven_Segment_Display.pdf
-    │   README.md
-    │   Software_Implementation_Of_Project.circ
+    │   └── 01 - Combinational_Part - Using_Basic_Gates (Unsimplified_Form).circ
+    │   └── 02 - Combinational_Part - Using_Basic_Gates.circ
+    │   └── 03 - Combinational_Part - Using_NAND_Gates.circ
+    │   └── 04 - Combinational_Part - Using_NOR_Gates.circ
+    │   └── 05 - Combinational_Part - Using_MUX.circ
+    │   └── 06 - Combinational_Part - Using_Decoder.circ
+    │   └── Project_CSE231L_09 Spring 24.docx
+    │   └── Project_Report - Seven_Segment_Display.pdf
+    │   └── README.md
+    │   └── Software_Implementation_Of_Project.circ
     │
     └───PNGs
-            01 - Combinational_Part - Using_Basic_Gates (Unsimplified_Form).png
-            02 - Combinational_Part - Using_Basic_Gates.png
-            03 - Combinational_Part - Using_NAND_Gates.png
-            04 - Combinational_Part - Using_NOR_Gates.png
-            05 - Combinational_Part - Using_MUX.png
-            06 - Combinational_Part - Using_Decoder.png
-            Hardware_Overview.jpg
-            Project_CSE231L_09 Spring 24-1.png
-            Project_CSE231L_09 Spring 24-2.png
-            Project_Report - Seven_Segment_Display-01.png
+            └── 01 - Combinational_Part - Using_Basic_Gates (Unsimplified_Form).png
+            └── 02 - Combinational_Part - Using_Basic_Gates.png
+            └── 03 - Combinational_Part - Using_NAND_Gates.png
+            └── 04 - Combinational_Part - Using_NOR_Gates.png
+            └── 05 - Combinational_Part - Using_MUX.png
+            └── 06 - Combinational_Part - Using_Decoder.png
+            └── Hardware_Overview.jpg
+            └── Project_CSE231L_09 Spring 24-1.png
+            └── Project_CSE231L_09 Spring 24-2.png
+            └── Project_Report - Seven_Segment_Display-01.png
             ...
-            Project_Report - Seven_Segment_Display-30.png
-            README.md
-            Software_Implementation_Of_Project.png
+            └── Project_Report - Seven_Segment_Display-30.png
+            └── README.md
+            └── Software_Implementation_Of_Project.png
 ```
 ## Project Demonstration →
 
