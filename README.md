@@ -23,34 +23,7 @@ Repositories
             Project_CSE231L_09 Spring 24-1.png
             Project_CSE231L_09 Spring 24-2.png
             Project_Report - Seven_Segment_Display-01.png
-            Project_Report - Seven_Segment_Display-02.png
-            Project_Report - Seven_Segment_Display-03.png
-            Project_Report - Seven_Segment_Display-04.png
-            Project_Report - Seven_Segment_Display-05.png
-            Project_Report - Seven_Segment_Display-06.png
-            Project_Report - Seven_Segment_Display-07.png
-            Project_Report - Seven_Segment_Display-08.png
-            Project_Report - Seven_Segment_Display-09.png
-            Project_Report - Seven_Segment_Display-10.png
-            Project_Report - Seven_Segment_Display-11.png
-            Project_Report - Seven_Segment_Display-12.png
-            Project_Report - Seven_Segment_Display-13.png
-            Project_Report - Seven_Segment_Display-14.png
-            Project_Report - Seven_Segment_Display-15.png
-            Project_Report - Seven_Segment_Display-16.png
-            Project_Report - Seven_Segment_Display-17.png
-            Project_Report - Seven_Segment_Display-18.png
-            Project_Report - Seven_Segment_Display-19.png
-            Project_Report - Seven_Segment_Display-20.png
-            Project_Report - Seven_Segment_Display-21.png
-            Project_Report - Seven_Segment_Display-22.png
-            Project_Report - Seven_Segment_Display-23.png
-            Project_Report - Seven_Segment_Display-24.png
-            Project_Report - Seven_Segment_Display-25.png
-            Project_Report - Seven_Segment_Display-26.png
-            Project_Report - Seven_Segment_Display-27.png
-            Project_Report - Seven_Segment_Display-28.png
-            Project_Report - Seven_Segment_Display-29.png
+            ...
             Project_Report - Seven_Segment_Display-30.png
             README.md
             Software_Implementation_Of_Project.png
