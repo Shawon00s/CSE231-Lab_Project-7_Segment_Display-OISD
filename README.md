@@ -1,3 +1,10 @@
+### This is a project based on Seven Segment Display. It was a part of the assessment of the CSE231 (Digital Logic Design) course. 
+
+<em> Course name - CSE231\
+Faculty - <a href="https://du.ac.bd/faculty/faculty_details/CSE/1770](http://ece.northsouth.edu/people/omar-ibne-shahid/">Prof. Omar-Ibne Shahid</a>\
+Faculty initial - OISD\
+Summer'24</em>
+
 ## <em>Path Detail →</em>
 ```
 Repositories
